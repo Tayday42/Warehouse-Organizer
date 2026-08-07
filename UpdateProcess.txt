@@ -1,0 +1,5 @@
+1) Build new version in unity editor
+2) go into StorageOrganizer/Versions and put old build into OldBuilds folder in StorageOrganizer Directory
+3) Put new build into StorageOrganizer/Versions and ensure naming convention is Build_x.x with x.x being the new version number
+4) Open Warehouse Launch App and update the version number. OR add the new version number manually in StorageOrganizer/Versions/Versions.JSON
+5) open StorageOrganizer/Versions in GitBash. "git add .", "git commit -m "version x.x"", "git push -u origin main" 
