@@ -1,0 +1,41 @@
+1) Unzip Build folder
+2) double click "StorageOrganizer" file to start
+3) screen resolution should be 1920x1080. if using widescreen to view, it is recommended to change the resolution of your screen to 1920x1080 in Settings->Display
+4) click the "Generate Test Boxes" to explore program functionality
+5) if you cant close the program due to the quit button being out of reach, hit Control+Alt+Delete and look for StorageOrganizer in the Apps list, right click and press End Task
+6) you are able to place boxes in non official "Lane" spots, but they cannot currently be stacked.
+
+Changes
+08-03-2026
+- in the Add Box menu, boxes in lanes are now stackable. 
+- Checks implemented to ensure user cant place boxes in invalid spots.
+- Box color changes to red when attempting to place in invalid spots and the "Set Box Button" is disabled.
+- Added ability to shunt to lane
+
+08-04-2026
+- Delete from list button fixed
+- removed shadows
+- began status color system
+- added row numbers
+
+08-05-2026
+- Added Change Box Status menu
+- prevented duplicate serial numbers from being added
+- prevented boxes from being added without valid warehouse coords
+- made boxes correct color during shunt to lane
+- Added Error message in cases of duplicate serial and invalid position
+- added box colors to DEVELOPER-GenerateBoxes
+- added DEVELOPER-DeleteAllBoxes button
+- Fixed Input fields on Add Box Menu
+
+
+
+
+
+WTBD
+- assign color to boxes to designate status (continue)
+- ensure boxes cannot be placed without a box below it
+- Make GUI more uniform and readable
+
+
+

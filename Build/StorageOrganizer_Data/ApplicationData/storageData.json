@@ -1,0 +1,28 @@
+{
+    "BoxesInStorage": [
+        {
+            "serial": "q",
+            "row": 16,
+            "column": 1,
+            "stack": 1,
+            "color": 0
+        }
+    ],
+    "LaneBoxesOnScene": [
+        {
+            "serial": "sdfsdfsd",
+            "position": {
+                "x": 4.443508148193359,
+                "y": 0.3619999885559082,
+                "z": 1.944441795349121
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "color": 3
+        }
+    ]
+}
