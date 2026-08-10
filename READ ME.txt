@@ -29,13 +29,19 @@ Changes
 - Fixed Input fields on Add Box Menu
 
 
-
+08-09-2026
+- Added updater/launcher
+- Added ability to assign a status name to color in the Change Box Status menu
+- Fixed issue with Change Box Status menu not closing after moving to other menu items
+- Added changelog message after launching new update
+- Added Changelog button
 
 
 WTBD
 - assign color to boxes to designate status (continue)
 - ensure boxes cannot be placed without a box below it
 - Make GUI more uniform and readable
+- Add list functionality to display boxes by status
 
 
 
